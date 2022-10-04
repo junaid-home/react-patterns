@@ -1,5 +1,5 @@
 import React from "react";
-import Comp from "./patterns/05-state-initializer/usage";
+import Comp from "./patterns/06-state-reducer/usage";
 
 const App = () => {
   return <Comp />;
