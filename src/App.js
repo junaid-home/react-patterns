@@ -1,5 +1,5 @@
 import React from "react";
-import Comp from "./patterns/02-controlled-props/usage";
+import Comp from "./patterns/03-props-collection/usage";
 
 const App = () => {
   return <Comp />;
